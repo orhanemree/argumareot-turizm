@@ -71,6 +71,8 @@ export default {
             );
         },
         changeVideoSource(e){
+            const video = document.querySelector("video");
+            video.remove();
             this.videoSource = { video: { deviceId: e.target.value } };
             this.ctrls.sourceChanged = true;
         },
