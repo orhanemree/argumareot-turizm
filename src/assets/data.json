@@ -1,0 +1,51 @@
+[
+    {
+        "name": "dark",
+        "title": "dark",
+        "id": 0,
+        "info-tr": "dark",
+        "info-en": "dark"
+    },
+    {
+        "name": "light",
+        "title": "light",
+        "id": 1,
+        "info-tr": "light",
+        "info-en": "light"
+    },
+    {
+        "name": "motif1",
+        "title": "Penç",
+        "id": 2,
+        "info-tr": "Burada kullanılan motif çeşidi bir penç motifidir. Farsça beş anlamına gelen penç kelimesi süsleme sanatlarında kullanılan bitkisel motiflerin çizimine merkezden başlanılanlarına verilen genel isim olmuştur. Penç bitkisel motifler içerisinde Hatai grubu arasında enine kesitliler olarak yer alır. Yuvarlak formda ve merkezden başlanıldığından dolayı merkezi hatai olarak da isimlendirilmiştir. Bir çiçeğe kuşbakışı bakıldığında ilk görünen taç yaprakları olduğundan dolayı isimlendirme yaprak sayısına göre yapılmıştır. Penç motifinin örnekleri birçok uygarlıkta gözlenmiştir. Bunlar; Mısır, Asur, Babil, Eski İran, Yunan, Roma, İslamiyet Öncesi Türk Devletleri ve İslamiyet’ten Sonraki Türk Devletlerinde görülmüştür.",
+        "info-en": "The type of motif used here is a penç motif. The word penç, which means five in Persian, has been the general name given to for those who start the drawing  from the centre of floral motifs used in ornamental arts. Penç takes place among the Hatai group in floral motifs as cross-sectioned. It is also called central hatai because it is in a round form and starts from the center. Since petals are the first to appear when looking at a flower from a bird's eye view, the naming is made according to the number of leaves. Examples of the penç motif have been observed in many civilizations. These; It has been seen in Egypt, Assyria, Babylon, Ancient Iran, Greek, Rome, Pre-Islamic Turkish States and Post-Islamic Turkish States."
+    },
+    {
+        "name": "motif2",
+        "title": "Hatayi",
+        "id": 3,
+        "info-tr": "Hatayiler, Orta Asya ve Çin etkisinde çoğunlukla hangi çiçeğe ait olduğu belli olmayacak derecede stilize edilmiş olan çiçek motifleridir. Şakayık çiçeğinin dikine kesitinin, anatomik çizgilerinin üsluplaştırılmasıyla ortaya çıkan şekillere şakayık motifi denir.Tabiattaki şakayık çiçeği, süsleme sanatında üsluplaştırılarak resmedilmek suretiyle işlenmiştir. Çinide kullanılan şakayık motifi de tabiattaki şakayık çiçeğine benzer yapıda stilize edilmiş zarif bir motifdir.Şakayık gösterişli ancak mağrur bir çiçektir. Bu sebeple şefkati simgeler. Şakayık aynı mutluluğu ve huzuru için yaşayan insanlar gibidir. Ailesini ve sağlığını her şeyin önünde tutan, aşkı temsil eden bir çiçektir.",
+        "info-en": "Hatayis are flower motifs that are mostly stylized under the influence of Middle Asia and China in a way that it is not clear which flower it belongs to. Vertical section of peony flower, anatomical line's the shapes that show up with the stylization are called peony motifs. The peony flower in nature has been processed by being adapted and illustrated in the art of ornamentation. The peony motif used in tile is also a graceful motif stylized in a make similar to the peony flower in nature. The peony is a showy but proud flower. For this reason, they symbolize compassion. Peonies are just like people who live for their happiness and peace. It is a flower that represents love, that prioritizes family and health above all else. "
+    },
+    {
+        "name": "motif3",
+        "title": "Goncagül",
+        "id": 4,
+        "info-tr": "Goncagüldeki gül gerçek anlamıyla bildiğimiz gül değil genel olarak adlandırılan çiçekleri simgelemektedir. Bu motife goncaçiçek denmektedir. Goncaçiçek tam açılmamış bir çiçeğin boyunakesitinin tezhip üslubundaki görünüşüdür. Basit bir goncagülün taç yaprakları ve çanak kısmı oldukça belli olmaktadır. Hiç görülmeyen veya çok az görünen kısmı meşime ve tohumlardır. Meşime ve tohumların belirgin olarak çizilmesi halinde goncagül yerini hatayiye bırakmaktadır. Buradan da anlaşılan Goncagül hatayinin ilk görünmeye başlayan yüzü olmaktadır.",
+        "info-en": "The rose in the Goncagul symbolizes the flowers that are called in general, not the rose we know in the real mean. This motif is called budflower. The petals and sepals of a simple  goncagul are quite obvious. The part that is not seen or seen very little is the uterus and seeds. This pattern is also part of the \"Tree of Life\" motif made as a whole."
+    },
+    {
+        "name": "motif4",
+        "title": "Goncagül",
+        "id": 5,
+        "info-tr": "Goncagüldeki gül gerçek anlamıyla bildiğimiz gül değil genel olarak adlandırılan çiçekleri simgelemektedir. Bu motife goncaçiçek denmektedir. Goncaçiçek tam açılmamış bir çiçeğin boyunakesitinin tezhip üslubundaki görünüşüdür. Basit bir goncagülün taç yaprakları ve çanak kısmı oldukça belli olmaktadır. Hiç görülmeyen veya çok az görünen kısmı meşime ve tohumlardır. Bu desen aynı zamanda bir bütün olarak yapılan “Hayat Ağacı” motifinin bir parçasıdır.",
+        "info-en": "The rose in the Goncagul symbolizes the flowers that are called in general, not the rose we know in the real mean. This motif is called budflower. The petals and sepals of a simple  goncagul are quite obvious. The part that is not seen or seen very little is the uterus and seeds. This pattern is also part of the \"Tree of Life\" motif made as a whole."
+    },
+    {
+        "name": "motif5",
+        "title": "Şakayık",
+        "id": 6,
+        "info-tr": "Hatayiler, Orta Asya ve Çin etkisinde çoğunlukla hangi çiçeğe ait olduğu belli olmayacak derecede stilize edilmiş olan çiçek motifleridir. Şakayık çiçeğinin dikine kesitinin, anatomik çizgilerinin üsluplaştırılmasıyla ortaya çıkan şekillere şakayık motifi denir.Tabiattaki şakayık çiçeği, süsleme sanatında üsluplaştırılarak resmedilmek suretiyle işlenmiştir. Çinide kullanılan şakayık motifi de tabiattaki şakayık çiçeğine benzer yapıda stilize edilmiş zarif bir motifdir.Şakayık gösterişli ancak mağrur bir çiçektir. Bu sebeple şefkati simgeler. Şakayık aynı mutluluğu ve huzuru için yaşayan insanlar gibidir. Ailesini ve sağlığını her şeyin önünde tutan, aşkı temsil eden bir çiçektir.",
+        "info-en": "Hatayis are flower motifs that are mostly stylized under the influence of Middle Asia and China in a way that it is not clear which flower it belongs to. Vertical section of peony flower, anatomical line's the shapes that show up with the stylization are called peony motifs. The peony flower in nature has been processed by being adapted and illustrated in the art of ornamentation. The peony motif used in tile is also a graceful motif stylized in a make similar to the peony flower in nature. The peony is a showy but proud flower. For this reason, they symbolize compassion. Peonies are just like people who live for their happiness and peace. It is a flower that represents love, that prioritizes family and health above all else. "
+    }
+]

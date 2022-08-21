@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply
+    bg-neutral-900
+    p-10
+}
+
+#camera, #meaning{
+    @apply
+    border border-neutral-800
+    rounded
+    bg-neutral-700
+    p-3 w-full
+    flex items-center justify-center
+    text-lg text-center
+}
+
+.controllers{
+    @apply
+    flex items-center justify-between
+    mt-3
+    mb-7
+}
+
+.controllers button, .controllers select{
+    @apply
+    border border-lime-900
+    rounded
+    px-2 py-1
+    text-sm
+    bg-lime-800
+    cursor-pointer
+}
+
+footer{
+    @apply
+    text-white
+    text-sm
+    text-center
+    mt-5
+}
+
+footer a{
+    @apply
+    underline
+}

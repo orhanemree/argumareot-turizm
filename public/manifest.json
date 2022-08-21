@@ -1,0 +1,32 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "minimal-ui",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Argumareot Turizm",
+    "short_name": "Argumareot Turizm",
+    "description": "TEKNOFEST Turizm Teknolojileri Yar\u0131\u015fmas\u0131 Finalisti 2022 Argumareot Tak\u0131m\u0131",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
