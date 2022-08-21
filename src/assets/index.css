@@ -10,19 +10,19 @@ body{
 
 #camera, #meaning{
     @apply
-    border border-neutral-800
+    border border-white
     rounded
-    bg-neutral-700
-    p-3 w-full
+    bg-neutral-800
+    p-4 w-full
     flex items-center justify-center
     text-lg text-center
+    text-neutral-100
 }
 
 .controllers{
     @apply
     flex items-center justify-between
-    mt-3
-    mb-7
+    mt-3 mb-7
 }
 
 .controllers button, .controllers select{
@@ -40,7 +40,7 @@ footer{
     text-white
     text-sm
     text-center
-    mt-5
+    mt-7
 }
 
 footer a{
