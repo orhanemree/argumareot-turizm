@@ -57,7 +57,7 @@ import data from "./assets/data.json";
 export default {
     data(){
         return{
-            ctrls: { lang: "tr", sourceChanged: false, mirrored: false, scanned: false },
+            ctrls: { lang: "tr", mirrored: false, scanned: false },
             videoSource: {},
             videoDevices: [],
             motif: {}
@@ -71,10 +71,8 @@ export default {
             );
         },
         changeVideoSource(e){
-            const video = document.querySelector("video");
-            video.remove();
-            this.videoSource = { video: { deviceId: e.target.value } };
-            this.ctrls.sourceChanged = true;
+            window.localStorage.setItem("argumareot-turizm-videosource", JSON.stringify({ video: { deviceId: e.target.value } }));
+            location.reload();
         },
         mirrorVideo(){
             this.ctrls.mirrored = !this.ctrls.mirrored;
@@ -117,19 +115,14 @@ export default {
                 outputHeight = 250;
                 const canvas = p.createCanvas(outputWidth, outputHeight);
                 canvas.parent("camera");
-                videoInput = p.createCapture(p.VIDEO);
+                const videoSource = JSON.parse(window.localStorage.getItem("argumareot-turizm-videosource")) || p.VIDEO;
+                videoInput = p.createCapture(videoSource);
                 videoInput.size(outputWidth, outputHeight);
                 videoInput.hide();
                 classifyVideo();
             }
             
             p.draw = _ => {
-                if (this.ctrls.sourceChanged){
-                    videoInput = p.createCapture(this.videoSource || p.VIDEO);
-                    videoInput.size(outputWidth, outputHeight);
-                    videoInput.hide();
-                    this.ctrls.sourceChanged = false;
-                }
                 p.image(videoInput, 0, 0, outputWidth, outputHeight);
             }
         }
