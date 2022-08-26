@@ -19,7 +19,7 @@ TEKNOFEST Turizm Teknolojileri Yarışması 2022 Finalisti Argumareot Takımı w
 $ git clone https://github.com/orhanemree/argumareot-turizm.git
 $ cd argumareot-turizm
 $ npm i
-$ npm run dev # listening post 3000
+$ npm run dev # listening port 3000
 ```
 
 ## Teknofest Takımı
