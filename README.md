@@ -1,7 +1,9 @@
 # 🏝️ Argumareot Turizm
 TEKNOFEST Turizm Teknolojileri Yarışması 2022 Finalisti Argumareot Takımı website kaynak kodları.
 
-[👉 Siteyi ziyaret edin](https://argumareot-turizm.netlify.app)
+[👉 Siteyi ziyaret edin](https://argumareot-turizm.netlify.app/)
+
+<p align="center"><img alt="teknofest" src="./teknofest.png" width="250"></p>
 
 ## Kullanılan Teknolojiler
 * Frontend: Tailwind CSS + Vue.js
@@ -19,9 +21,6 @@ $ cd argumareot-turizm
 $ npm i
 $ npm run dev # listening post 3000
 ```
-
-## Yapılacaklar
-* [ ] İnternetsiz kullanım desteği.
 
 ## Teknofest Takımı
 |Takım Üyesi|Takımdaki Görevi|

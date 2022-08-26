@@ -91,13 +91,14 @@ export default {
         if ("serviceWorker" in navigator) {
             navigator.serviceWorker.register("/service-worker.js");
         }
-        const MODEL_URL = "https://teachablemachine.withgoogle.com/models/EKbsPs3Cl/model.json";
+        const MODEL_URL = "https://teachablemachine.withgoogle.com/models/RlR25vRbP/model.json";
         let classifier, videoInput, outputWidth, outputHeight;
         // video classify with ml5.js
         const classifyVideo = () => {
             classifier.classify(videoInput, (err, result) => {
-                if (!err && result[0].confidence * 100 > 95 && result[0].label !== "light" && result[0].label !== "dark"){
+                if (!err && result[0].confidence * 100 > 95 && result[0].label !== "dark"){
                     this.motif = data.filter(m => m.name === result[0].label)[0];
+                    console.log(result);
                     this.ctrls.scanned = true;
                 }
                 if (!this.ctrls.scanned){

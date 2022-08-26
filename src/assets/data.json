@@ -1,51 +1,53 @@
 [
     {
         "name": "dark",
-        "title": "dark",
-        "id": 0,
-        "info-tr": "dark",
-        "info-en": "dark"
+        "info-tr": "",
+        "info-en": ""
     },
     {
-        "name": "light",
-        "title": "light",
-        "id": 1,
-        "info-tr": "light",
-        "info-en": "light"
+        "name": "boga",
+        "info-tr": "Boğa, vahşi gücün ve tenasül gücünün sembolüdür. Yunanistan, Hindistan ve İran’da ise ineğe saygı gösterilmiştir.40 Hint mitolojisinde tanrılarla ilgili bir sembol kabul edilmiş, İran mitolojisinde ise iyi ve kötü yönleriyle öne çıkmıştır. Eski Türklerde boğa veya öküz destanlarda önemli bir yer edinmiş ve Alplik sembolü olmuştur. Kuvvet ve kudretin simgesi olarak hükümdarlığı temsil etmiştir. Hint mitolojisinin etkisiyle Türklerde dünyayı taşıyan hayvanlar arasında kabul edilmiştir. Dede Korkut hikâyelerinde boğa güç, kuvvet ve yiğitlik sembolü olmuştur. Burç sembolü olan boğa, aynı zamanda Türk hayvan takviminde yıl sembolüdür.",
+        "info-en": "The bull is a symbol of wild power and reproductive power. In Greece, India and Iran, the cow was respected. 40 in Indian mythology It was accepted as a symbol related to the gods, and in Persian mythology, it has good and bad aspects. In the old Turks, the bull or the ox had an important place in the epics. and It has become a symbol of the soldiers. Represents kingdom as a symbol of strength and might. With the influence of Indian mythology, among the animals that carry the world have it in Turkısh mythology. In Dede Korkut stories, the bull is a symbol of power, strength and bravery. has been. The bull, which is the symbol of the zodiac, is also the year in the Turkish animal calendar is the symbol."
     },
     {
-        "name": "motif1",
-        "title": "Penç",
-        "id": 2,
+        "name": "maymun",
+        "info-tr": "Maymun figürü Türk sanatında yaygın olarak karşımıza çıkmamaktadır. Bu hayvan özellikle Hint mitolojisinde görülmektedir. Türkler özellikle Budist oldukları dönemde onunla ilgili çeşitli tasavvurlardan etkilenmişlerdir. Maymunlar Hindistan'da inekler gibi bugünde saygı gören hayvanlardandır. Öte yandan İslamiyetten önce ve sonra maymun on iki hayvanlı Türk takviminin yıl simgelerinden biri olmuştur. İslamiyetten sonra maymunun çoğu anlamları ortadan kalkmıştır. Eski mitolojik izlere nadiren rastlanır; örneğin aslan ya da kaplan oyunu gibi Doğu Türkistan bölgesindeki Uygurlarda, bugün de söz konusu olan ve çok eskiden beri oynan maymun oyununun varlığı buna işaret etmektedir.İslami tasavvurlarda maymun olumsuz nitelikleriyle ön plana çıkmaktadır. Tuhfetü’l Müneccim ve Marifetname gibi eserlerde maymun yılında savaş, fitne, hastalık ve yankesiciliğin çok olduğuna dair verilen açıklamalar bu duruma işaret edilmektedir. Maymun hilekâr, kurnaz ve edepsiz insanların alegorisi olarak kullanılmıştır.",
+        "info-en": "The monkey figure is not see much in Turkısh art. This animal is especially It seen in Indian mythology. The Turks, especially when they were Buddhists, did various things in this regard and influenced by Buddhist ideas. monkeys are respected as cows in İndia today. On the other hand, before and after Islam, the monkey became one of the year symbols of the twelve animal Turkish calendar. After Islam, most meanings of monkey disappeared. Old mythological traces are rarely encountered; such as the lion or tiger game in the East Turkestan region The existence of the monkey game, which is still in question among the Uighurs and has been played since ancient times, indicates this. In Islamic conceptions, the monkey comes to the fore with its negative qualities. In some ancient works, war, sedition, disease and pickpocketing were very common in the year of the monkey. The explanations given that this is the case point to this situation. Monkey deceitful, cunning and rude used as an allegory of people."
+    },
+    {
+        "name": "rumi",
+        "info-tr": "Rumi \"Anadolu’ya ait\" anlamındadır eskiden Anadolu’ya Diyar-ı Rum denilmesinde ve 1071 Malazgirt Zaferi’nden sonra Anadolu’ya yerleşen Selçuklu Türklerinin bu motifi geliştirerek, çok kullanmalarından dolayıdır. Rumi motifine ayrıca Selçukî de denilmektedir. Rumi motifi ilk kez, 9.ve10.yüzyılda Uygur Türklerine ait bezeklik Freski’nde Rumi kanatlı ejderha figüründe bir motif olarak görülür. Uygurlulardan sonra kurulan Karahanlılar Devleti döneminde ise Rumi motifi desen haline gelecek kadar gelişmiş ve Türk süsleme sanatında bir üslup olmuştur.",
+        "info-en": "Rumi means \"belonging to Anatolia\" because Anatolia was called Diyar-ı Rum in the past and because the Seljuk Turks, who settled in Anatolia after the 1071 Malazgirt Victory, developed and used this motif a lot. Rumi motif is also called Seljuk. The Rumi motif is first seen as a motif in the winged dragon figure of Rumi in the ornamental Fresco belonging to the Uighur Turks in the 9th and 10th centuries. In the period of the Karakhanid State, which was established after the Uighurs, the Rumi motif was developed enough to become a pattern and became a style in the Turkish decorative art."
+    },
+    {
+        "name": "penc",
         "info-tr": "Burada kullanılan motif çeşidi bir penç motifidir. Farsça beş anlamına gelen penç kelimesi süsleme sanatlarında kullanılan bitkisel motiflerin çizimine merkezden başlanılanlarına verilen genel isim olmuştur. Penç bitkisel motifler içerisinde Hatai grubu arasında enine kesitliler olarak yer alır. Yuvarlak formda ve merkezden başlanıldığından dolayı merkezi hatai olarak da isimlendirilmiştir. Bir çiçeğe kuşbakışı bakıldığında ilk görünen taç yaprakları olduğundan dolayı isimlendirme yaprak sayısına göre yapılmıştır. Penç motifinin örnekleri birçok uygarlıkta gözlenmiştir. Bunlar; Mısır, Asur, Babil, Eski İran, Yunan, Roma, İslamiyet Öncesi Türk Devletleri ve İslamiyet’ten Sonraki Türk Devletlerinde görülmüştür.",
         "info-en": "The type of motif used here is a penç motif. The word penç, which means five in Persian, has been the general name given to for those who start the drawing  from the centre of floral motifs used in ornamental arts. Penç takes place among the Hatai group in floral motifs as cross-sectioned. It is also called central hatai because it is in a round form and starts from the center. Since petals are the first to appear when looking at a flower from a bird's eye view, the naming is made according to the number of leaves. Examples of the penç motif have been observed in many civilizations. These; It has been seen in Egypt, Assyria, Babylon, Ancient Iran, Greek, Rome, Pre-Islamic Turkish States and Post-Islamic Turkish States."
     },
     {
-        "name": "motif2",
-        "title": "Hatayi",
-        "id": 3,
+        "name": "lale",
+        "info-tr": "Lale desenli figür, Türk kültüründe ve İslam aleminde farklı anlamlar taşımaktadır. Türk kültüründe aşk, nezaket, zarafet ve güzelliği ifade eden lale Tasavvuf ilminde ise Allah’ın birliğini temsil eder. Lale yapraklarının yukarı doğru açılması dua etmeyi ifade eder. Lale desenli figür her rengi ile farklı bir anlam yansıtmaktadır. Sarı, sevgi ve hoşgörüyü, kırmızı aşkı, beyaz ise saflık ve temizliği, pembe ise sadakat ve şefkati ifade eder.",
+        "info-en": "Tulip patterned figure has different meanings in Turkish culture and Islamic world. The tulip, which mean love, kindness, grace and beauty in Turkısh culture and in islamic mysticism science represents the unity of Allah The upward opening of the tulip petals expresses prayer. The tulip patterned figure reflects a different meaning with each color. Yellow stands for love and tolerance, red for love, white for purity and cleanliness, and pink for loyalty and compassion."
+    },
+    {
+        "name": "hatayi",
+        "info-tr": "Hatayiler, Orta Asya ve Çin etkisinde çoğunlukla hangi çiçeğe ait olduğu belli olmayacak derecede stilize edilmiş olan çiçek motifleridir. Şakayık çiçeğinin dikine kesitinin, anatomik çizgilerinin üsluplaştırılmasıyla ortaya çıkan şekillere şakayık motifi denir.Tabiattaki şakayık çiçeği, süsleme sanatında üsluplaştırılarak resmedilmek suretiyle işlenmiştir. Çinide kullanılan şakayık motifi de tabiattaki şakayık çiçeğine benzer yapıda stilize edilmiş zarif bir motifdir.Şakayık gösterişli ancak mağrur bir çiçektir. Bu sebeple şefkati simgeler. Şakayık aynı mutluluğu ve huzuru için yaşayan insanlar gibidir. Ailesini ve sağlığını her şeyin önünde tutan, aşkı temsil eden bir çiçektir.",
+        "info-en": "Hatayis are flower motifs that are mostly stylized under the influence of Middle Asia and China in a way that it is not clear which flower it belongs to. Vertical section of peony flower, anatomical line's the shapes that show up with the stylization are called peony motifs. The peony flower in nature has been processed by being adapted and illustrated in the art of ornamentation. The peony motif used in tile is also a graceful motif stylized in a make similar to the peony flower in nature. The peony is a showy but proud flower. For this reason, they symbolize compassion. Peonies are just like people who live for their happiness and peace. It is a flower that represents love, that prioritizes family and health above all else. "
+
+    },
+    {
+        "name": "sakayik",
         "info-tr": "Hatayiler, Orta Asya ve Çin etkisinde çoğunlukla hangi çiçeğe ait olduğu belli olmayacak derecede stilize edilmiş olan çiçek motifleridir. Şakayık çiçeğinin dikine kesitinin, anatomik çizgilerinin üsluplaştırılmasıyla ortaya çıkan şekillere şakayık motifi denir.Tabiattaki şakayık çiçeği, süsleme sanatında üsluplaştırılarak resmedilmek suretiyle işlenmiştir. Çinide kullanılan şakayık motifi de tabiattaki şakayık çiçeğine benzer yapıda stilize edilmiş zarif bir motifdir.Şakayık gösterişli ancak mağrur bir çiçektir. Bu sebeple şefkati simgeler. Şakayık aynı mutluluğu ve huzuru için yaşayan insanlar gibidir. Ailesini ve sağlığını her şeyin önünde tutan, aşkı temsil eden bir çiçektir.",
         "info-en": "Hatayis are flower motifs that are mostly stylized under the influence of Middle Asia and China in a way that it is not clear which flower it belongs to. Vertical section of peony flower, anatomical line's the shapes that show up with the stylization are called peony motifs. The peony flower in nature has been processed by being adapted and illustrated in the art of ornamentation. The peony motif used in tile is also a graceful motif stylized in a make similar to the peony flower in nature. The peony is a showy but proud flower. For this reason, they symbolize compassion. Peonies are just like people who live for their happiness and peace. It is a flower that represents love, that prioritizes family and health above all else. "
     },
     {
-        "name": "motif3",
-        "title": "Goncagül",
-        "id": 4,
-        "info-tr": "Goncagüldeki gül gerçek anlamıyla bildiğimiz gül değil genel olarak adlandırılan çiçekleri simgelemektedir. Bu motife goncaçiçek denmektedir. Goncaçiçek tam açılmamış bir çiçeğin boyunakesitinin tezhip üslubundaki görünüşüdür. Basit bir goncagülün taç yaprakları ve çanak kısmı oldukça belli olmaktadır. Hiç görülmeyen veya çok az görünen kısmı meşime ve tohumlardır. Meşime ve tohumların belirgin olarak çizilmesi halinde goncagül yerini hatayiye bırakmaktadır. Buradan da anlaşılan Goncagül hatayinin ilk görünmeye başlayan yüzü olmaktadır.",
-        "info-en": "The rose in the Goncagul symbolizes the flowers that are called in general, not the rose we know in the real mean. This motif is called budflower. The petals and sepals of a simple  goncagul are quite obvious. The part that is not seen or seen very little is the uterus and seeds. This pattern is also part of the \"Tree of Life\" motif made as a whole."
-    },
-    {
-        "name": "motif4",
-        "title": "Goncagül",
-        "id": 5,
+        "name": "goncagul_01",
         "info-tr": "Goncagüldeki gül gerçek anlamıyla bildiğimiz gül değil genel olarak adlandırılan çiçekleri simgelemektedir. Bu motife goncaçiçek denmektedir. Goncaçiçek tam açılmamış bir çiçeğin boyunakesitinin tezhip üslubundaki görünüşüdür. Basit bir goncagülün taç yaprakları ve çanak kısmı oldukça belli olmaktadır. Hiç görülmeyen veya çok az görünen kısmı meşime ve tohumlardır. Bu desen aynı zamanda bir bütün olarak yapılan “Hayat Ağacı” motifinin bir parçasıdır.",
         "info-en": "The rose in the Goncagul symbolizes the flowers that are called in general, not the rose we know in the real mean. This motif is called budflower. The petals and sepals of a simple  goncagul are quite obvious. The part that is not seen or seen very little is the uterus and seeds. This pattern is also part of the \"Tree of Life\" motif made as a whole."
     },
     {
-        "name": "motif5",
-        "title": "Şakayık",
-        "id": 6,
-        "info-tr": "Hatayiler, Orta Asya ve Çin etkisinde çoğunlukla hangi çiçeğe ait olduğu belli olmayacak derecede stilize edilmiş olan çiçek motifleridir. Şakayık çiçeğinin dikine kesitinin, anatomik çizgilerinin üsluplaştırılmasıyla ortaya çıkan şekillere şakayık motifi denir.Tabiattaki şakayık çiçeği, süsleme sanatında üsluplaştırılarak resmedilmek suretiyle işlenmiştir. Çinide kullanılan şakayık motifi de tabiattaki şakayık çiçeğine benzer yapıda stilize edilmiş zarif bir motifdir.Şakayık gösterişli ancak mağrur bir çiçektir. Bu sebeple şefkati simgeler. Şakayık aynı mutluluğu ve huzuru için yaşayan insanlar gibidir. Ailesini ve sağlığını her şeyin önünde tutan, aşkı temsil eden bir çiçektir.",
-        "info-en": "Hatayis are flower motifs that are mostly stylized under the influence of Middle Asia and China in a way that it is not clear which flower it belongs to. Vertical section of peony flower, anatomical line's the shapes that show up with the stylization are called peony motifs. The peony flower in nature has been processed by being adapted and illustrated in the art of ornamentation. The peony motif used in tile is also a graceful motif stylized in a make similar to the peony flower in nature. The peony is a showy but proud flower. For this reason, they symbolize compassion. Peonies are just like people who live for their happiness and peace. It is a flower that represents love, that prioritizes family and health above all else. "
-    }
+        "name": "goncagul_02",
+        "info-tr": "Goncagüldeki gül gerçek anlamıyla bildiğimiz gül değil genel olarak adlandırılan çiçekleri simgelemektedir. Bu motife goncaçiçek denmektedir. Goncaçiçek tam açılmamış bir çiçeğin boyunakesitinin tezhip üslubundaki görünüşüdür. Basit bir goncagülün taç yaprakları ve çanak kısmı oldukça belli olmaktadır. Hiç görülmeyen veya çok az görünen kısmı meşime ve tohumlardır. Bu desen aynı zamanda bir bütün olarak yapılan “Hayat Ağacı” motifinin bir parçasıdır.",
+        "info-en": "The rose in the Goncagul symbolizes the flowers that are called in general, not the rose we know in the real mean. This motif is called budflower. The petals and sepals of a simple  goncagul are quite obvious. The part that is not seen or seen very little is the uterus and seeds. This pattern is also part of the \"Tree of Life\" motif made as a whole."
+    }    
 ]
