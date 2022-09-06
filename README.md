@@ -1,5 +1,5 @@
 # 🏝️ Argumareot Turizm
-TEKNOFEST Turizm Teknolojileri Yarışması 2022 Finalisti Argumareot Takımı website kaynak kodları.
+TEKNOFEST Turizm Teknolojileri Yarışması 2022 Üçüncüsü Argumareot Takımı website kaynak kodları.
 
 [👉 Siteyi ziyaret edin](https://argumareot-turizm.netlify.app/)
 
