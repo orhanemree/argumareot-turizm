@@ -43,8 +43,8 @@
             <div>
                 {{
                     ctrls.lang === "tr" ?
-                    "Teknofest Turizm Teknolojileri Yarışması 2022 Üçüncüsü Argumareot Takımı" :
-                    "Teknofest Tourism Technologies Competition 2022 Third Place Argumareot Team" 
+                    "Teknofest Turizm Teknolojileri Yarışması 2022 İkincisi Argumareot Takımı." :
+                    "Teknofest Tourism Technologies Competition 2022 Second Place Argumareot Team." 
                 }}
             </div>
             <div>Made with 🖤 open source on <a href="https://github.com/orhanemree/argumareot-turizm">GitHub</a>.</div>

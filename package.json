@@ -1,6 +1,6 @@
 {
   "name": "argumareot-turizm",
-  "description": "TEKNOFEST Turizm Teknolojileri Yarışması 2022 Finalisti Argumareot Takımı website kaynak kodları.",
+  "description": "Teknofest Tourism Technologies Competition 2022 Second Place Argumareot Team website source codes.",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",

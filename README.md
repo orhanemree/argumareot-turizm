@@ -1,20 +1,21 @@
-# 🏝️ Argumareot Turizm
-TEKNOFEST Turizm Teknolojileri Yarışması 2022 Üçüncüsü Argumareot Takımı website kaynak kodları.
+# 🏝️ Argumareot Tourism
+Teknofest Tourism Technologies Competition 2022 Second Place Argumareot Team website source codes.
 
-[👉 Siteyi ziyaret edin](https://argumareot-turizm.netlify.app/)
+[Türkçe versiyon](./README-TR.md)
+[👉 Visit website](https://argumareot-turizm.netlify.app/)
 
 <p align="center"><img alt="teknofest" src="./teknofest.png" width="250"></p>
 
-## Kullanılan Teknolojiler
+## Used Technologies
 * Frontend: Tailwind CSS + Vue.js
 
-## Basitçe:
-* Daha önceden fotoğraflanmış motiflerden [Teachable Machine](https://teachablemachine.withgoogle.com/) ile veri seti oluşturulur.
-* ml5.js kütüphanesi ile kullanıcı kamerasından alınan görseller bu veri seti ile karşılaştırılır.
-* p5.js kütüphanesi ile eşleşen motife ait bilgi kullanıcıya gösterilir.
-* PWA desteği ile daha ulaşılabilir ve kullanılabilir hale getirilmiştir.
+## Basicly:
+* Data set is created with [Teachable Machine](https://teachablemachine.withgoogle.com/) from previously taken motif photos.
+* With ml5.js library, users camera capture is compared with this data set frame by frame.
+* With p5.js library, information about matched motifs are displayed to the user.
+* It has been made more accessible and usable with PWA support.
 
-## Geliştirici Ortamı
+## Development Environment
 ```terminal
 $ git clone https://github.com/orhanemree/argumareot-turizm.git
 $ cd argumareot-turizm
@@ -22,14 +23,14 @@ $ npm i
 $ npm run dev # listening port 3000
 ```
 
-## Teknofest Takımı
-|Takım Üyesi|Takımdaki Görevi|
+## Teknofest Team
+|Team Member|Role in the Team|
 |--|--|
-|[Gökçe Naz Balcı](mailto:gokcenazbalci@hotmail.com)|Takım Kaptanı|
-|[Orhan Emre Dikicigil](https://github.com/orhanemree)|Web Geliştirme|
-|Berra Ulukaya|Veri Toplama|
-|Rümeysa Esma Karanfil|Veri Toplama|
-|[Arda Can](https://www.instagram.com/arda.canm/)|Veri Toplama|
+|[Gökçe Naz Balcı](mailto:gokcenazbalci@hotmail.com)|Team Captain|
+|[Orhan Emre Dikicigil](https://github.com/orhanemree)|Web Development|
+|Berra Ulukaya|Data Collection|
+|Rümeysa Esma Karanfil|Data Collection|
+|[Arda Can](https://www.instagram.com/arda.canm/)|Data Collection|
 
-## Lisans
-* [MIT Lisansı](./LICENSE) ile lisanslanmıştır.
+## License
+* Licensed under the [MIT License](./LICENSE).
