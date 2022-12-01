@@ -57,7 +57,7 @@ import data from "./assets/data.json";
 export default {
     data(){
         return{
-            ctrls: { lang: "tr", mirrored: false, scanned: false },
+            ctrls: { lang: "en", mirrored: false, scanned: false },
             videoSource: {},
             videoDevices: [],
             motif: {}
