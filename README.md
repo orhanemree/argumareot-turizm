@@ -9,7 +9,7 @@ Teknofest Tourism Technologies Competition 2022 Second Place Argumareot Team web
 ## Used Technologies
 * Frontend: Tailwind CSS + Vue.js
 
-## Basicly:
+## Simply:
 * Data set is created with [Teachable Machine](https://teachablemachine.withgoogle.com/) from previously taken motif photos.
 * With ml5.js library, users camera capture is compared with this data set frame by frame.
 * With p5.js library, information about matched motifs are displayed to the user.
